@@ -3,6 +3,6 @@ zad4-logo-ajax:
 	zad4-logo-ajax\app\controllers - PatientsCtrl.class.php
 	zad4-logo-ajax\app\views - patients.tpl, patientsTable.tpl
 zad3-logo-stronicowanie:
-	zad4-logo-ajax\app\controllers - ContactsCtrl.class.php
-	zad4-logo-ajax\app\views - contacts.tpl
+	zad3-logo-ajax\app\controllers - ContactsCtrl.class.php
+	zad3-logo-ajax\app\views - contacts.tpl
 	
